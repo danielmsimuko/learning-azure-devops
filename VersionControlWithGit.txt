@@ -19,3 +19,17 @@ Branch workflow types
         full history along with the repository code 
         good for many distributed teams
         good for working alongside open source code bases
+
+Merge Types 
+
+    Merge 
+        non linear history preserving all commits
+
+    squash commit
+        linear history with only a single commit on the target 
+    
+    rebase and fast forward 
+        rebase source commits onto targets and fast forward 
+
+    semi linear merge 
+        rebase source commits onto target and create two parent merge
