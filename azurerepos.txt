@@ -1,0 +1,7 @@
+working with azur repos
+
+create local files 
+initialise an empty git reop 
+add the files needed to be committed 
+commit files locally 
+push changes to azure repos 
