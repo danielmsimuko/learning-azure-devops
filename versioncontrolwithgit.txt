@@ -32,4 +32,6 @@ Merge Types
         rebase source commits onto targets and fast forward 
 
     semi linear merge 
-        rebase source commits onto target and create two parent merge
+        rebase source commits onto target and create two parent merge. 
+
+Completed git tutorial
