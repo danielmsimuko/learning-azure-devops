@@ -11,3 +11,8 @@ After you complete this lab, you will be able to:
     Save work with commits.
     Review history of changes.
     Work with branches by using Visual Studio Code
+    
+    
+In this lab, you used the Azure DevOps portal to manage branches and repositories.
+
+I was able to clone existing repo, save work with commits, review history of changes and work with brances in visual studio
