@@ -7,5 +7,10 @@ It's a file that has a list of changes made to a project, usually in date order.
     Deleted features
 
 Branch workflow types 
-
     
+    centralised, distributed workflow
+
+Stages of Git
+    
+    Repo - history, Stage - index, Working directory 
+
