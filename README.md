@@ -2,7 +2,7 @@
 
 Steps: 
 Linux: Bash Commands, Linux FS, SSH Key Management....
-Linux for DevOps Engineers - https://youtube.com/playlist?list=PLJpjaORB7Btu1czyt6vCEdeEopYkoWxUO
+- Linux for DevOps Engineers - https://youtube.com/playlist?list=PLJpjaORB7Btu1czyt6vCEdeEopYkoWxUO
 
 Verion Control: Git
 Git for DevOps John Savills - https://youtu.be/hQJktcBzJUs
