@@ -1,0 +1,11 @@
+Implementing a changelog: 
+
+It's a file that has a list of changes made to a project, usually in date order. The typical breakdown is to separate a list of versions, and then within each version, show:
+
+    Added features
+    Modified/Improved features
+    Deleted features
+
+Branch workflow types 
+
+    
