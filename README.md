@@ -19,3 +19,5 @@ Containerisation: Kubernetes and Docker
 Monitoring and Logging: (Grafana, ELK, Splunk, Prometheus)
 - John Savills: https://youtu.be/ypT4S17kiJw 
     
+Additional Tooling: 
+   https://learn.microsoft.com/en-gb/certifications/exams/az-400
