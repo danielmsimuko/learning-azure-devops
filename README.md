@@ -11,11 +11,11 @@ Networking: DNS, Subnets, Gateways, DHCP, NAT, HTTP, Firewalls, Load Balancers &
 
 Continuous Integration/Continuous Deployment: Gitlab/Jenkins:
 - John Savills: https://youtu.be/nLRHV2sRTe8
-    - 
-    Containerisation: Kubernetes and Docker
-	  - John Savills training: https://youtu.be/r6YIlPEC4y4 
-    - Docker for DevOps https://youtube.com/playlist?list=PLJpjaORB7Btuf79uKYPFuPC4Bnmpt5MFs
 
-    Monitoring and Logging: (Grafana, ELK, Splunk, Prometheus)
-	  - John Savills: https://youtu.be/ypT4S17kiJw 
+Containerisation: Kubernetes and Docker
+- John Savills training: https://youtu.be/r6YIlPEC4y4 
+- Docker for DevOps https://youtube.com/playlist?list=PLJpjaORB7Btuf79uKYPFuPC4Bnmpt5MFs
+
+Monitoring and Logging: (Grafana, ELK, Splunk, Prometheus)
+- John Savills: https://youtu.be/ypT4S17kiJw 
     
