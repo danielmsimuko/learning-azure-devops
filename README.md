@@ -3,7 +3,7 @@
 Linux: Bash/Scripting
 - Linux for DevOps Engineers - https://youtube.com/playlist?list=PLJpjaORB7Btu1czyt6vCEdeEopYkoWxUO
 
-Verion Control with Git
+Version Control with Git
 - Git for DevOps John Savills - https://youtu.be/hQJktcBzJUs
 - Whizlabs AZ-400 Design and implement version control system :https://www.whizlabs.com/learn/course/microsoft-azure-certification-az-400/270/video
 
