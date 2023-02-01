@@ -1,0 +1,6 @@
+Lab 2 from Microsoft: 
+
+Version Controlling with Git in Azure Repos - Student lab manual
+    Link: https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L02_Version_Controlling_with_Git_in_Azure_Repos.html
+
+    
