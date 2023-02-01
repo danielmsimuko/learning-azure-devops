@@ -5,6 +5,7 @@ Linux: Bash/Scripting
 
 Verion Control with Git
 - Git for DevOps John Savills - https://youtu.be/hQJktcBzJUs
+- Whizlabs AZ-400 Design and implement version control system :https://www.whizlabs.com/learn/course/microsoft-azure-certification-az-400/270/video
 
 Networking: DNS, Subnets, Gateways, DHCP, NAT, HTTP, Firewalls, Load Balancers & Proxy Servers
 - FreeCodeCamp DevOps Pre-Requisites https://youtu.be/Wvf0mBNGjXY?t=7329 

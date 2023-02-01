@@ -8,9 +8,14 @@ It's a file that has a list of changes made to a project, usually in date order.
 
 Branch workflow types 
     
-    centralised, distributed workflow
-
-Stages of Git
+    centralised
+        its beneficial to use when you have large code bases
+        specify fine grain permissions at the file level 
+        monitor usage of files becuase the checkin and check out process happens over the server 
+        lock files so they cannot be accessed on the server
     
-    Repo - history, Stage - index, Working directory 
-
+    distributed
+        giving the developer full control over the repository by allowing local copies 
+        full history along with the repository code 
+        good for many distributed teams
+        good for working alongside open source code bases
