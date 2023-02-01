@@ -1,18 +1,16 @@
 # DevOps Journey Plan 
 
-Steps: 
-Linux: Bash Commands, Linux FS, SSH Key Management....
+Linux: Bash/Scripting
 - Linux for DevOps Engineers - https://youtube.com/playlist?list=PLJpjaORB7Btu1czyt6vCEdeEopYkoWxUO
 
-Verion Control: Git
-Git for DevOps John Savills - https://youtu.be/hQJktcBzJUs
-    
-    Networking: DNS, Subnets, Gateways, DHCP, NAT, HTTP, Firewalls, Load Balancers & Proxy Servers
-     - FreeCodeCamp DevOps Pre-Requisites https://youtu.be/Wvf0mBNGjXY?t=7329 
+Verion Control with Git
+- Git for DevOps John Savills - https://youtu.be/hQJktcBzJUs
 
-  Core Topics:
-    Continuous Integration/Continuous Deployment: Gitlab/Jenkins:
-	  - John Savills: https://youtu.be/nLRHV2sRTe8
+Networking: DNS, Subnets, Gateways, DHCP, NAT, HTTP, Firewalls, Load Balancers & Proxy Servers
+- FreeCodeCamp DevOps Pre-Requisites https://youtu.be/Wvf0mBNGjXY?t=7329 
+
+Continuous Integration/Continuous Deployment: Gitlab/Jenkins:
+- John Savills: https://youtu.be/nLRHV2sRTe8
     - 
     Containerisation: Kubernetes and Docker
 	  - John Savills training: https://youtu.be/r6YIlPEC4y4 
