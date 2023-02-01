@@ -25,4 +25,4 @@ Additional Tooling:
    - Azure DevOps Environment: https://dev.azure.com/
    
 DevOps Projects: 
-Realtime Projects encompassing all: https://youtube.com/playlist?list=PLJpjaORB7Btv_7JEwDnFrtl5GkegNg2bV
+- Realtime Projects encompassing all: https://youtube.com/playlist?list=PLJpjaORB7Btv_7JEwDnFrtl5GkegNg2bV
