@@ -23,3 +23,6 @@ Additional Tooling:
    - MS Learn: https://learn.microsoft.com/en-gb/certifications/exams/az-400
    - MS Learn Labs: https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
    - Azure DevOps Environment: https://dev.azure.com/
+   
+DevOps Projects: 
+Realtime Projects encompassing all: https://youtube.com/playlist?list=PLJpjaORB7Btv_7JEwDnFrtl5GkegNg2bV
