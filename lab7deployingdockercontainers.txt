@@ -1,0 +1,15 @@
+After you complete this lab, you will be able to:
+
+    Build a custom Docker image by using a Microsoft hosted Linux agent.
+    Push an image to Azure Container Registry.
+    Deploy a Docker image as a container to Azure App Service by using Azure DevOps.
+    
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L08_Deploying_Docker_containers_to_Azure_App_Service_web_apps.html
+
+##[error]No hosted parallelism has been purchased or granted. 
+
+To request a free parallelism grant, please fill out the following form https://aka.ms/azpipelines-parallelism-request
+Pool: Azure Pipelines
+Image: ubuntu-latest
+
+Job preparation parameters
