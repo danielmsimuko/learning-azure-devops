@@ -1,0 +1,8 @@
+After you complete this lab, you will be able to:
+
+    Create a basic build pipeline from a template.
+    Track and review a build.
+    Invoke a continuous integration build.
+
+understood concept
+
