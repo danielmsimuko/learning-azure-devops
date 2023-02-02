@@ -12,6 +12,7 @@ Networking: DNS, Subnets, Gateways, DHCP, NAT, HTTP, Firewalls, Load Balancers &
 
 Continuous Integration/Continuous Deployment: Gitlab/Jenkins:
 - John Savills: https://youtu.be/nLRHV2sRTe8
+- Jenkins tutorial for beginners: https://youtube.com/playlist?list=PL8WTXLSrtyWpgy4ZvhkVmc9uq5dU8ao08
 
 Containerisation: Kubernetes and Docker
 - John Savills training: https://youtu.be/r6YIlPEC4y4 
@@ -27,3 +28,10 @@ Additional Tooling:
    
 DevOps Projects: 
 - Realtime Projects encompassing all: https://youtube.com/playlist?list=PLJpjaORB7Btv_7JEwDnFrtl5GkegNg2bV
+- Realtime DevOps Scenarios :https://youtube.com/playlist?list=PL8WTXLSrtyWo5qTkjyLoHn2BQ-5_N6smF 
+- DevSecOps Realtime project: https://youtube.com/playlist?list=PL8WTXLSrtyWpICWv6hcdM2i9iU10Zi4F7
+- Devops Realtime Project: https://youtube.com/playlist?list=PL8WTXLSrtyWontpwknqN9ZWlR1_zVuITV
+- Devops Project 2 - https://youtube.com/playlist?list=PL8WTXLSrtyWpdKdlm6PvHPGwf1BMYORNF
+- DevOps Project 1 - https://youtube.com/playlist?list=PL8WTXLSrtyWpn-uSG4QXZFHBZH-1jkNKG
+
+
