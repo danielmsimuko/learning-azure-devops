@@ -35,7 +35,8 @@ DevOps Projects:
 - DevOps Project 1 - https://youtube.com/playlist?list=PL8WTXLSrtyWpn-uSG4QXZFHBZH-1jkNKG
 
 Premium: 
-Techworld with nana: https://www.techworld-with-nana.com/devops-bootcamp
+- Techworld with nana: https://www.techworld-with-nana.com/devops-bootcamp
+- ACLOUDGURU Hands-On-Labs https://learn.acloud.guru/course/az400-azure-devops-engineer-expert/overview
 
 
 
