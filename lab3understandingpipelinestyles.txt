@@ -4,3 +4,9 @@ After you complete this lab, you will be able to:
     Implement self-hosted agents.
 
 Link: https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L04_Configuring_Agent_Pools_and_Understanding_Pipeline_Styles.html
+
+Errors
+	
+No hosted parallelism has been purchased or granted. To request a free parallelism grant, please fill out the following form https://aka.ms/azpipelines-parallelism-request
+20230202.2
+
