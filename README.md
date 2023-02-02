@@ -34,4 +34,8 @@ DevOps Projects:
 - Devops Project 2 - https://youtube.com/playlist?list=PL8WTXLSrtyWpdKdlm6PvHPGwf1BMYORNF
 - DevOps Project 1 - https://youtube.com/playlist?list=PL8WTXLSrtyWpn-uSG4QXZFHBZH-1jkNKG
 
+Premium: 
+Techworld with nana: https://www.techworld-with-nana.com/devops-bootcamp
+
+
 
